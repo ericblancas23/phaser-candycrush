@@ -11,7 +11,6 @@ You can play demo with 5 levels [here](http://candy-game.herokuapp.com/). This g
 
 ## Environment setup
 
-- Install NodeJs from https://nodejs.org/
 - clone repository
 
 ```
