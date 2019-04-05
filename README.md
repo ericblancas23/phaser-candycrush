@@ -15,7 +15,7 @@ You can play demo with 5 levels [here](http://candy-game.herokuapp.com/). This g
 - clone repository to C:\Sources (create Source folder)
 
 ```
-git clone https://github.com/Anjmao/candy.git
+git clone https://github.com/ericblancas23/phaser-candycrush
 ```
 
 - Run Npm install
