@@ -12,7 +12,7 @@ You can play demo with 5 levels [here](http://candy-game.herokuapp.com/). This g
 ## Environment setup
 
 - Install NodeJs from https://nodejs.org/
-- clone repository to C:\Sources (create Source folder)
+- clone repository
 
 ```
 git clone https://github.com/ericblancas23/phaser-candycrush
