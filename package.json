@@ -4,8 +4,8 @@
   "description": "Candy crush like game made with Phaser game engine",
   "main": "index.js",
   "scripts": {
-    "start": "node deploy/index.js",
-    "postinstall": "bower install && gulp heroku-build"
+    "start": "node app",
+    "postinstall": "gulp default"
   },
   "repository": {
     "type": "git",
